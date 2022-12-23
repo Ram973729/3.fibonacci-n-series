@@ -1,5 +1,5 @@
 # 3.fibonacci-n-series
-n=int(input())
+n=int(input('Enter any number:'))
 a=0
 b=1
 while n!=0:
